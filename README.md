@@ -2,6 +2,8 @@
 
 A pop-up calendar date picker for Word/Excel VBA UserForms, built entirely from native MSForms controls. No ActiveX, no registration of MSCOMCT2.OCX, no license keys - works identically on 32-bit and 64-bit Office.
 
+![screenshot](normal-view.pmg)
+
 Created as a drop-in replacement for the old MSCOMCT2 `DTPicker` control, which requires per-machine registration and does not exist for 64-bit Office.
 
 ## Components (all three are required)
